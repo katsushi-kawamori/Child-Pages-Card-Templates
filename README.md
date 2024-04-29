@@ -93,7 +93,7 @@ childpagescard-template-css-(template slug name). (php/css)
 | `$color_width` | Int | Border width | `child_pages_card_color_width` |
 | `$color` | String | Border color | `child_pages_card_color` |
 | `$t_line_height` | Int | Line height of the title | `child_pages_card_t_line_height` |
-| `$d_line_height` | Int | Description line height | `child_pages_card_d_line_height` |
+| `$d_line_height` | Int | Excerpt line height | `child_pages_card_d_line_height` |
 | `$url` | String | Link destination url |  |
 | `$img` | bool | Featured image availability |  |
 | `$img_url` | String | url of the Featured image |  |
